@@ -1,0 +1,143 @@
+player_id,name,franchise,role,credits
+P001,MDKJ Perera,Hyderabad Kingsmen,WK,10.5
+P002,Usman Khan,Hyderabad Kingsmen,WK,10.5
+P003,Hammad Azam,Hyderabad Kingsmen,BAT,7.5
+P004,Irfan Khan,Hyderabad Kingsmen,BAT,6.5
+P005,M Labuschagne,Hyderabad Kingsmen,BAT,7.5
+P006,Maaz Sadaqat,Hyderabad Kingsmen,BAT,8.5
+P007,Rizwan Mehmood,Hyderabad Kingsmen,BAT,7.5
+P008,Saad Ali,Hyderabad Kingsmen,BAT,7.5
+P009,Sharjeel Khan,Hyderabad Kingsmen,BAT,7.5
+P010,GJ Maxwell,Hyderabad Kingsmen,AR,7.5
+P011,Hassan Khan,Hyderabad Kingsmen,AR,7.5
+P012,Saim Ayub,Hyderabad Kingsmen,AR,10.5
+P013,Akif Javed,Hyderabad Kingsmen,BOWL,9.0
+P014,Asif Mehmood,Hyderabad Kingsmen,BOWL,7.5
+P015,Hunain Shah,Hyderabad Kingsmen,BOWL,6.0
+P016,M Theekshana,Hyderabad Kingsmen,BOWL,7.5
+P017,Mohammad Ali,Hyderabad Kingsmen,BOWL,9.5
+P018,RP Meredith,Hyderabad Kingsmen,BOWL,8.0
+P019,AGS Gous,Islamabad United,WK,8.0
+P020,DP Conway,Islamabad United,WK,7.5
+P021,Haider Ali,Islamabad United,BAT,6.0
+P022,MS Chapman,Islamabad United,BAT,6.0
+P023,Mohammad Faiq,Islamabad United,BAT,7.5
+P024,Mohsin Riaz,Islamabad United,BAT,7.5
+P025,Sameer Minhas,Islamabad United,BAT,7.5
+P026,CJ Green,Islamabad United,AR,7.5
+P027,Faheem Ashraf,Islamabad United,AR,9.5
+P028,Imad Wasim,Islamabad United,AR,9.5
+P029,Shadab Khan,Islamabad United,AR,10.5
+P030,Mehran Mumtaz,Islamabad United,BOWL,7.5
+P031,Mohammad Hasnain,Islamabad United,BOWL,6.0
+P032,RJ Gleeson,Islamabad United,BOWL,7.5
+P033,Salman Irshad,Islamabad United,BOWL,8.5
+P034,Salman Mirza,Islamabad United,BOWL,10.5
+P035,Azam Khan,Karachi Kings,WK,6.5
+P036,Saad Baig,Karachi Kings,WK,6.0
+P037,DA Warner,Karachi Kings,BAT,9.5
+P038,JJ Roy,Karachi Kings,BAT,9.0
+P039,RR Hendricks,Karachi Kings,BAT,10.0
+P040,Waseem Muhammad,Karachi Kings,BAT,7.5
+P041,Agha Salman,Karachi Kings,AR,9.0
+P042,Khushdil Shah,Karachi Kings,AR,8.0
+P043,MM Ali,Karachi Kings,AR,7.5
+P044,A Zampa,Karachi Kings,BOWL,7.5
+P045,Abbas Afridi,Karachi Kings,BOWL,10.0
+P046,Hasan Ali,Karachi Kings,BOWL,10.0
+P047,Ihsanullah,Karachi Kings,BOWL,7.5
+P048,Mir Hamza,Karachi Kings,BOWL,8.0
+P049,Mohammad Hamza,Karachi Kings,BOWL,7.5
+P050,Rizwanullah,Karachi Kings,BOWL,7.5
+P051,Shahid Aziz,Karachi Kings,BOWL,10.0
+P052,Zahid Mahmood,Karachi Kings,BOWL,8.5
+P053,Haseebullah Khan,Lahore Qalandars,WK,6.5
+P054,Abdullah Shafique,Lahore Qalandars,BAT,8.5
+P055,Asif Ali,Lahore Qalandars,BAT,6.0
+P056,Fakhar Zaman,Lahore Qalandars,BAT,8.5
+P057,KIC Asalanka,Lahore Qalandars,BAT,7.5
+P058,Mohammad Farooq,Lahore Qalandars,BAT,7.5
+P059,Muhammad Naeem,Lahore Qalandars,BAT,9.0
+P060,Parvez Hossain Emon,Lahore Qalandars,BAT,7.5
+P061,RA Herman,Lahore Qalandars,BAT,7.5
+P062,RP Burl,Lahore Qalandars,BAT,7.5
+P063,DN Wellalage,Lahore Qalandars,AR,7.5
+P064,DR Sams,Lahore Qalandars,AR,9.0
+P065,Sikandar Raza,Lahore Qalandars,AR,10.0
+P066,Haris Rauf,Lahore Qalandars,BOWL,7.5
+P067,Mustafizur Rahman,Lahore Qalandars,BOWL,7.5
+P068,Shaheen Shah Afridi,Lahore Qalandars,BOWL,10.5
+P069,Ubaid Shah,Lahore Qalandars,BOWL,7.0
+P070,Usama Mir,Lahore Qalandars,BOWL,9.5
+P071,JR Philippe,Multan Sultans,WK,7.5
+P072,Sahibzada Farhan,Multan Sultans,WK,10.5
+P073,AJ Turner,Multan Sultans,BAT,6.0
+P074,Awais Zafar,Multan Sultans,BAT,7.5
+P075,SPD Smith,Multan Sultans,BAT,7.5
+P076,Shan Masood,Multan Sultans,BAT,6.0
+P077,Arafat Minhas,Multan Sultans,AR,7.0
+P078,Mohammad Nawaz,Multan Sultans,AR,7.0
+P079,Faisal Akram,Multan Sultans,BOWL,7.0
+P080,Mohammad Imran,Multan Sultans,BOWL,7.0
+P081,Mohammad Wasim,Multan Sultans,BOWL,9.0
+P082,Momin Qamar,Multan Sultans,BOWL,7.5
+P083,Muhammad Ismail,Multan Sultans,BOWL,7.5
+P084,PM Siddle,Multan Sultans,BOWL,7.5
+P085,Shehzad Gul,Multan Sultans,BOWL,7.5
+P086,BKG Mendis,Peshawar Zalmi,WK,8.0
+P087,Mohammad Haris,Peshawar Zalmi,WK,7.5
+P088,Abdul Samad,Peshawar Zalmi,BAT,7.0
+P089,Babar Azam,Peshawar Zalmi,BAT,10.5
+P090,Farhan Yousaf,Peshawar Zalmi,BAT,7.5
+P091,JM Vince,Peshawar Zalmi,BAT,9.0
+P092,AM Hardie,Peshawar Zalmi,AR,7.5
+P093,Aamer Jamal,Peshawar Zalmi,AR,8.0
+P094,Iftikhar Ahmed,Peshawar Zalmi,AR,7.5
+P095,MG Bracewell,Peshawar Zalmi,AR,8.0
+P096,Ali Raza,Peshawar Zalmi,BOWL,8.5
+P097,Khurram Shahzad,Peshawar Zalmi,BOWL,9.5
+P098,Mohammad Basit,Peshawar Zalmi,BOWL,7.5
+P099,Nahid Rana,Peshawar Zalmi,BOWL,7.5
+P100,Shoriful Islam,Peshawar Zalmi,BOWL,7.5
+P101,Sufiyan Muqeem,Peshawar Zalmi,BOWL,6.5
+P102,BR McDermott,Quetta Gladiators,WK,7.5
+P103,LD Chandimal,Quetta Gladiators,WK,8.5
+P104,Ahsan Ali,Quetta Gladiators,BAT,7.5
+P105,BJ Jacobs,Quetta Gladiators,BAT,7.5
+P106,Hassan Nawaz,Quetta Gladiators,BAT,9.5
+P107,Khawaja Nafay,Quetta Gladiators,BAT,7.0
+P108,RR Rossouw,Quetta Gladiators,BAT,7.0
+P109,SB Harper,Quetta Gladiators,BAT,7.5
+P110,Saud Shakeel,Quetta Gladiators,BAT,9.0
+P111,Shamyl Hussain,Quetta Gladiators,BAT,7.5
+P112,TK Curran,Quetta Gladiators,AR,7.5
+P113,AS Joseph,Quetta Gladiators,BOWL,9.5
+P114,Abrar Ahmed,Quetta Gladiators,BOWL,9.5
+P115,Ahmed Daniyal,Quetta Gladiators,BOWL,10.0
+P116,BR Hampton,Quetta Gladiators,BOWL,7.5
+P117,Jahandad Khan,Quetta Gladiators,BOWL,6.5
+P118,Kashif Bhatti,Quetta Gladiators,BOWL,7.5
+P119,Khalil Ahmed,Quetta Gladiators,BOWL,7.5
+P120,Saqib Khan,Quetta Gladiators,BOWL,7.5
+P121,Usman Tariq,Quetta Gladiators,BOWL,8.0
+P122,Mohammad Rizwan,Rawalpindiz,WK,10.5
+P123,SW Billings,Rawalpindiz,WK,7.5
+P124,Abdullah Fazal,Rawalpindiz,BAT,7.5
+P125,D Forrester,Rawalpindiz,BAT,7.5
+P126,Kamran Ghulam,Rawalpindiz,BAT,6.5
+P127,Shahzaib Khan,Rawalpindiz,BAT,7.5
+P128,UT Khawaja,Rawalpindiz,BAT,7.5
+P129,Yasir Khan,Rawalpindiz,BAT,7.5
+P130,DJ Mitchell,Rawalpindiz,AR,10.0
+P131,Saad Masood,Rawalpindiz,AR,7.0
+P132,Amad Butt,Rawalpindiz,BOWL,7.5
+P133,Asif Afridi,Rawalpindiz,BOWL,6.5
+P134,BV Sears,Rawalpindiz,BOWL,7.5
+P135,CE McConchie,Rawalpindiz,BOWL,7.5
+P136,Jalat Khan,Rawalpindiz,BOWL,7.5
+P137,Mohammad Amir,Rawalpindiz,BOWL,8.5
+P138,Mohammad Amir Khan,Rawalpindiz,BOWL,6.5
+P139,Mubasir Khan,Rawalpindiz,BOWL,7.5
+P140,Naseem Shah,Rawalpindiz,BOWL,8.0
+P141,Razaullah,Rawalpindiz,BOWL,7.5
+P142,Rishad Hossain,Rawalpindiz,BOWL,10.0

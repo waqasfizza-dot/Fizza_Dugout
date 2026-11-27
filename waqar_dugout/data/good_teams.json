@@ -1,0 +1,59 @@
+[
+  {
+    "team_name": "Lahore Lions",
+    "owner": "Ayesha",
+    "player_ids": [
+      "P122",
+      "P089",
+      "P056",
+      "P075",
+      "P039",
+      "P065",
+      "P012",
+      "P068",
+      "P114",
+      "P101",
+      "P015"
+    ],
+    "captain": "P089",
+    "vice_captain": "P068"
+  },
+  {
+    "team_name": "Gully Strikers",
+    "owner": "Bilal",
+    "player_ids": [
+      "P071",
+      "P037",
+      "P110",
+      "P025",
+      "P130",
+      "P029",
+      "P078",
+      "P046",
+      "P034",
+      "P121",
+      "P140"
+    ],
+    "captain": "P130",
+    "vice_captain": "P029"
+  },
+  {
+    "team_name": "Model Town XI",
+    "owner": "Hira",
+    "player_ids": [
+      "P089",
+      "P071",
+      "P051",
+      "P037",
+      "P106",
+      "P064",
+      "P040",
+      "P085",
+      "P112",
+      "P079",
+      "P134"
+    ],
+    "captain": "P037",
+    "vice_captain": "P106"
+  }
+]

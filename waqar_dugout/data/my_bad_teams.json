@@ -1,0 +1,22 @@
+[
+  {
+    "team_name": "Duplicate Player Test",
+    "owner": "Waqar",
+    "player_ids": [
+      "P122", "P089", "P075", "P075", "P039",
+      "P065", "P012", "P068", "P114", "P101", "P015"
+    ],
+    "captain": "P089",
+    "vice_captain": "P068"
+  },
+  {
+    "team_name": "Same Captain Test",
+    "owner": "Waqar",
+    "player_ids": [
+      "P122", "P089", "P056", "P075", "P039",
+      "P065", "P012", "P068", "P114", "P101", "P015"
+    ],
+    "captain": "P089",
+    "vice_captain": "P089"
+  }
+]
