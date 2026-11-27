@@ -220,4 +220,4 @@ The API creates `data/teams.json` when teams are registered. This runtime file i
 
 ## Author
 
-Waqar Ali
+Fizza Waqas
